@@ -1,0 +1,63 @@
+id,sname,cname,year,fathername,percentage,age,phone
+1,Smriti,Microsoft,2002,Shyam Singh,90,22,9417709899
+2,Tanya,Flipkart,2005,Anisur Rahaman,86,26,7464646456
+3,Ishita,Amazon,2004,Neelam Kumar,67,34,8242344124
+4,Anjali,Microsoft,2000,Rama Shankar Singh,89,45,9353343535
+5,Priyanka,Oracle,2001,Rabindra Singh,75,47,6565756765
+6,Shreya,Informatica,2002,Jit singh,78,24,9464645644
+7,Sneha,Microsoft,2003,Paravayya. S. Mathapati,66,34,6534646565
+8,Aishwarya,Deloittle,2004,Ashok Kumar Kushwaha,88,23,9349924324
+9,Gayatri,Accenture,2005,Tejpal Singh,87,54,9353214534
+10,Ira,Microsoft,2006,Guman Singh,79,24,9243424234
+11,Niharika,Netflix,2000,Rajeev Kumar,99,23,8788966234
+12,Nikita,Accenture,2001,Dhanpat Rai,88,34,8677657767
+13,Neha,Oracle,2002,Bhupinder Singh,77,33,9423476234
+14,Isha,Netflix,2003,Subodh Kumar Mahato,66,24,8787898763
+15,Sakshi,Informatica,2004,Ravinder Dogra,99,33,9429742324
+16,Aswini,Deloittle,2005,Sanjeev kumar,39,20,8867986878
+17,Suhani,Netflix,2006,Mukesh Chandra,88,27,8626323843
+18,Pavithra,Deloittle,2000,Bhupinder Singh,87,52,7761238776
+19,Anusha,Amazon,2001,Pramod Kumar,75,34,9242326554
+20,Anushri,Oracle,2002,Pradeep Kumar pandey,88,23,8877847887
+21,Ayushi,Amazon,2003,Pravin Anashaba Ban,87,45,8687466643
+22,Jassi,Accenture,2004,Jayanta Saikia,71,23,9866787687
+23,Radhika,Amazon,2005,Babu Ram,76,25,9472930478
+24,Anisha,Amazon,2006,Vinod Kumar,80,29,9353534543
+25,Akansha,Informatica,2000,Neerpal,88,29,9324349342
+26,Srishti,Flipkart,2000,Bhagat Singh,90,21,7895875247
+27,Rakshita,Oracle,2002,Kanwal Kishore,90,22,9417709899
+28,Irfan,Deloittle,2005,Manoj Kumar,86,26,7464646456
+29,Nitish,Accenture,2004,Gurdial singh,67,34,8242344124
+30,beauty,Edifecs,2000,Radha Mohan Tiwari,89,45,9353343535
+31,Sneha,Informatica,2001,Ashok Kumar,75,47,6565756765
+32,Preeti,Microsoft,2002,Sukesh kumar,78,24,9464645644
+33,Sneha,Flipkart,2003,Dinesh Kumar Yadav,66,34,6534646565
+34,Jyoti,Amazon,2004,Dev Karan Singh,88,23,9349924324
+35,Kumari,Microsoft,2005,Man singh,87,54,9353214534
+36,Sumedha,Oracle,2006,Rajesh Kumar,79,24,9243424234
+37,Aditya,Informatica,2000,Shyam Singh,99,23,8788966234
+38,Khushi,Microsoft,2001,Anisur Rahaman,88,34,8677657767
+39,Shivam,Deloittle,2002,Neelam Kumar,77,33,9423476234
+40,Monika,Accenture,2003,Rama Shankar Singh,66,24,8787898763
+41,Mehak,Microsoft,2004,Rabindra Singh,99,33,9429742324
+42,Sahil,Netflix,2005,Jit singh,39,20,8867986878
+43,Prashant,Accenture,2006,Paravayya. S. Mathapati,88,27,8626323843
+44,Palak,Oracle,2000,Ashok Kumar Kushwaha,87,52,7761238776
+45,Srijal,Netflix,2001,Tejpal Singh,75,34,9242326554
+46,Shishir,Informatica,2002,Guman Singh,88,23,8877847887
+47,Ankita,Deloittle,2003,Rajeev Kumar,87,45,8687466643
+48,Kavyashree,Netflix,2004,Dhanpat Rai,71,23,9866787687
+49,Piyush,Deloittle,2005,Bhupinder Singh,76,25,9472930478
+50,Nishant,Amazon,2006,Subodh Kumar Mahato,80,29,9353534543
+51,Kumari,Oracle,2000,Ravinder Dogra,88,29,9324349342
+52,Rakhi,Amazon,2000,Sanjeev kumar,90,21,7895875247
+53,Anushika,Accenture,2001,Mukesh Chandra,90,22,9417709899
+54,Vibhash,Amazon,2002,Bhupinder singh,86,26,7464646456
+55,Arti,Amazon,2003,Pramod Kumar,67,34,8242344124
+56,Muskan,Informatica,2004,Pradeep Kumar Pandey,89,45,9353343535
+57,Muskan,Flipkart,2005,Pravin Anashaba Ban,75,47,6565756765
+58,Aditi,Oracle,2006,Jayanta Saikia,78,24,9464645644
+59,Neha,Deloittle,2000,Babu Ram,66,34,6534646565
+60,Mudit,Accenture,2001,Vinod Kumar,88,23,9349924324
+61,Sakshi,Edifecs,2002,Neerpal,87,54,9353214534
+62,Suneha,Informatica,2003,Bhagat Singh,79,24,9243424234
